@@ -38,6 +38,30 @@ This repository documents my journey through the **60 Days of AI Challenge**, wh
 - Prompt Engineering
 - Real-world AI Projects
 
+
+### Day 2 - Prompt Engineering
+
+- Learned the difference between weak and engineered prompts
+- Compared AI outputs generated from both prompt types
+- Explored how clarity, context, and structure improve AI responses
+- Created a visual comparison of Weak vs Engineered Prompts
+- Documented key learnings and observations
+
+#### Key Learnings
+
+- Better prompts produce better outputs
+- Context improves relevance and accuracy
+- Structured prompts generate more useful responses
+- Prompt Engineering is a critical skill for working effectively with AI
+
+## 🌱 Future Focus
+
+- Generative AI
+- AI Agents
+- AI Automation
+- Prompt Engineering
+- Real-world AI Projects
+
 ## 📌 About Me
 
 I believe in learning by building. My goal is to become a skilled AI professional by continuously improving through projects, experimentation, and real-world problem solving.
