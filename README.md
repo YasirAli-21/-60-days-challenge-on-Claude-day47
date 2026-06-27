@@ -581,6 +581,123 @@ Create a reusable Claude Custom Skill for structured stock fundamental analysis.
 
 ## Outcome
 Built a reusable stock research skill capable of generating professional fundamental analysis reports.
+
+# 🚀 ABTalks 60-Day Claude AI Mastery Challenge
+
+## 📅 Day 17 – AI Vehicle Cost & Fuel Analysis Dashboard
+
+### 📌 Overview
+Built an AI-powered HTML dashboard to analyze vehicle fuel costs, maintenance expenses, environmental impact, and overall efficiency using a CSV dataset.
+
+### 🚀 Key Features
+- Fuel Cost Analysis
+- Maintenance Cost Comparison
+- Environmental Impact Assessment
+- Interactive HTML Dashboard
+- Data Visualization & KPIs
+
+### 📚 Key Learning
+Learned how AI can transform structured datasets into interactive dashboards and business insights.
+
+### 🛠️ Tools Used
+- Claude AI
+- HTML, CSS, JavaScript
+- CSV Dataset
+
+---
+
+## 📅 Day 18 – Brain Dump Action Planner Skill
+
+### 📌 Overview
+Created a reusable Claude Custom Skill that converts unstructured notes into organized action plans, summaries, risks, blockers, and project dashboards.
+
+### 🚀 Key Features
+- Note Summarization
+- Action Item Extraction
+- Risk & Blocker Identification
+- Interactive Dashboard
+- Reusable AI Workflow
+
+### 📚 Key Learning
+Learned how custom AI skills can automate project planning and improve productivity.
+
+### 🛠️ Tools Used
+- Claude AI Skills
+- HTML Dashboard
+
+---
+
+## 📅 Day 19 – Football Intelligence Hub
+
+### 📌 Overview
+Built an AI-powered football analytics dashboard featuring match predictions, Football IQ assessment, personality analysis, and data-driven insights.
+
+### 🚀 Key Features
+- FIFA World Cup Predictions
+- Football IQ Quiz
+- Personality Assessment
+- Performance Analytics
+- Interactive Dashboard
+
+### 📚 Key Learning
+Learned how AI combines analytics, prediction systems, and personalized recommendations.
+
+### 🛠️ Tools Used
+- Claude AI
+- HTML Dashboard
+- Football Dataset
+
+---
+
+## 📅 Day 20 – AI Face Puzzle Game
+
+### 📌 Overview
+Built an interactive browser-based face puzzle game using AI-generated HTML, CSS, and JavaScript with camera integration.
+
+### 🚀 Key Features
+- Webcam Capture
+- Multiple Difficulty Levels
+- Drag & Drop Gameplay
+- Timer & Move Counter
+- Local Leaderboard
+
+### 📚 Key Learning
+Learned how AI can rapidly generate complete interactive web applications using browser APIs.
+
+### 🛠️ Tools Used
+- Claude AI
+- HTML, CSS, JavaScript
+- Web Camera API
+
+---
+
+## 📅 Day 21 – Digital Privacy Intelligence Dashboard
+
+### 📌 Overview
+Built a cybersecurity-inspired dashboard to analyze digital footprint, privacy exposure, tracking risks, and personalized privacy recommendations.
+
+### 🚀 Key Features
+- Digital Footprint Analysis
+- Privacy Risk Assessment
+- Exposure Heatmap
+- Digital Twin Profile
+- Privacy Improvement Plan
+
+### 📚 Key Learning
+Learned how AI can analyze digital ecosystems and generate actionable privacy intelligence dashboards.
+
+### 🛠️ Tools Used
+- Claude AI
+- HTML Dashboard
+- Data Visualization
+
+---
+
+## 🎯 Challenge
+
+**ABTalks 60-Day Claude AI Mastery Challenge**
+
+Continuously building AI-powered projects to strengthen practical skills in AI, automation, data analytics, web applications, dashboards, cybersecurity, and productivity using Claude AI.
  
 ✅ Day 1 Completed  
 ✅ Day 2 Completed  
@@ -598,7 +715,11 @@ Built a reusable stock research skill capable of generating professional fundame
 ✅ Day 14 Completed
 ✅ Day 15 Completed
 ✅ Day 16 Completed
-   
+✅ Day 17 Completed
+✅ Day 18 Completed
+✅ Day 19 Completed
+✅ Day 20 Completed
+✅ Day 21 Completed
   
    
 
